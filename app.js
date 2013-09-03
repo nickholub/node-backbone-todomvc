@@ -59,6 +59,7 @@ function deleteTodo(req, res, next) {
     todos = _.reject(todos, function(todo) {
         return todo.id === id;
     });
+    res.send('');
 }
 
 function findTodoById(id) {
