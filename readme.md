@@ -1,7 +1,7 @@
 todomvc-node-backbone
 ===============
 
-Node.js + Backbone.js TodoMVC (fork of [TodoMVC](https://github.com/tastejs/todomvc) with Node.js back-end).
+Node.js + Backbone.js TodoMVC (fork of [TodoMVC](https://github.com/tastejs/todomvc) with Node.js back-end instead of local storage).
 All persistence is in-memory, no database is required.
 
 ## Usage
