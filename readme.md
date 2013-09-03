@@ -15,3 +15,12 @@ All persistence is in-memory, no database is required.
     $ node app
 
  Application will be available at http://localhost:3000
+
+## REST API
+
+ Express.js
+
+    app.get('/todos', getTodos);
+    app.post('/todos', createTodo);
+    app.put('/todos/:id', updateTodo);
+    app.delete('/todos/:id', deleteTodo);
