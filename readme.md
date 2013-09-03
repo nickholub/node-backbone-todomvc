@@ -1,4 +1,4 @@
-todomvc-node-backbone
+node-backbone-todomvc
 ===============
 
 Node.js + Backbone.js TodoMVC (fork of [TodoMVC](https://github.com/tastejs/todomvc) with Node.js back-end instead of local storage).

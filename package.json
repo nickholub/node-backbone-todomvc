@@ -1,5 +1,5 @@
 {
-    "name": "todomvc-node-backbone",
+    "name": "node-backbone-todomvc",
     "version": "0.0.1",
     "private": true,
     "dependencies": {
